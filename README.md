@@ -9,7 +9,7 @@
 ### Installation :
 - Télécharger Java 20
 - Télécharger le projet
-- Coller le contenu de 'dependencies' dans C:\Program Files\Java\jdk-20\
+- Coller le contenu de 'dependencies' dans C:\Program Files\Java\jdk-20\ (NE PAS REMPLACER LES FICHIERS EXISTANT)
 - Lancer l'exécutable 'NantesAVelos.exe'
 
 ## Fonctionnalités
