@@ -1,6 +1,4 @@
-<h1 align="center" style="font-size: 3rem; color: #7c4dff; font-weight: bold; margin: 1rem 0;">Nantes A Velo</h1>
-
-                                                                                               
+<h1 align="center" style="font-size: 3rem; color: #7c4dff; font-weight: bold; margin: 1rem 0;">Nantes A Velo <h1>                                                                                          
 
 ## Nantes A Velo est une application qui permet de réaliser plusieurs actions a partir d'une base de données de compteurs de velos de la ville de Nantes !
 
